@@ -5,7 +5,7 @@ from collections import deque
 # Define the upper and lower boundaries for a color to be considered "Blue"
 blueLower = np.array([100, 60, 60])
 blueUpper = np.array([140, 255, 255])
-
+#hatdog
 # Define a 5x5 kernel for erosion and dilation
 kernel = np.ones((5, 5), np.uint8)
 #awdsada
