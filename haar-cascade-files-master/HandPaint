@@ -8,7 +8,7 @@ blueUpper = np.array([140, 255, 255])
 
 # Define a 5x5 kernel for erosion and dilation
 kernel = np.ones((5, 5), np.uint8)
-
+#awdsada
 # Setup deques to store separate colors in separate arrays
 bpoints = [deque(maxlen=512)]
 gpoints = [deque(maxlen=512)]
